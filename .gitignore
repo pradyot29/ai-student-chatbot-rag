@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/ # Our virtual environment folder
+pip-selfcheck.json
+pip-log.txt
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
